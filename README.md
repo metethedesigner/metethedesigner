@@ -1,7 +1,6 @@
 ![MasterHead](https://cdn.dribbble.com/users/25906/screenshots/2486509/loading_1.gif)
 <h1 align="center">Hi 👋, I'm Mustafa METE</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
-<img align="right" alt="coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif"
 
 
 ## 🌐 Socials:
