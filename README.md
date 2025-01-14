@@ -1,5 +1,5 @@
 # 💫 About Me:
-I have been working as a front-end developer for about four years. In the<br>beginning, I spent the first two years working freelance. Then, I worked as<br>a React developer at 'Vatansoft' for a year. After this experience, I worked<br>at Kodzilla for three months. Then I worked at a company called Tostbang<br>for 8 months, where I contributed a lot, And finally, I worked as a Front End<br>Developer at a company called Teamlify for about 7 months.<br>
+I have been working as a Developer for about four years. I started with two years of freelance work, followed by a year as a React developer at Vatansoft. Afterward, I worked at Kodzilla for three months, Tostbang for 8 months, and Teamlify as a Front End Developer for 7 months. Recently, I have been improving myself on the backend side with PHP and Laravel.
 
 
 ## 🌐 Socials:
